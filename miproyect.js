@@ -14,7 +14,7 @@ function entrar() {
     };
 
     if (usuarios[NOMBRE] === clave) {
-        window.location.href = "index1.html";
+        window.location.href = "index2.html";
     } else {
         alert("Username or Password");
     }
