@@ -10,6 +10,7 @@ function entrar() {
         "Ruben":"111",
         "Bravo": "456",
         "Astrid": "123",
+        "Dayana": "123",
     
     };
 
